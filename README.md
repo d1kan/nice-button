@@ -1,2 +1,2 @@
-# nice-button-
-Very beatiful css button from yandex.practicum (JS deleted)
+# САМАЯ ЛУЧШАЯ КНОПКА НА ЦСС КОТОРУЮ Я ВИДЕЛ
+Просто наведи на неёёёёёёёёёёё
